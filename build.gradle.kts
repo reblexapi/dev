@@ -17,7 +17,7 @@ plugins {
 }
 
 group = "net.unethicalite"
-version = "1.0.2"
+version = "1.11.6"
 description = "Devious Launcher"
 
 repositories {
